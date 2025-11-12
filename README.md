@@ -8,6 +8,7 @@
 
 ## Estudiante y entusiasta del software
 Actualmente estudiando mi segundo curso de **DAM** y creando mis primeros proyectos!!
+![Contribution](https://activity-graph.herokuapp.com/graph?username=HectorCRM&theme=react-dark&hide_border=true&area=true)
 ![Snake animation](https://github.com/HectorCRM/github-readme/blob/output/github-contribution-snake.svg)
 
 
