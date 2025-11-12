@@ -8,4 +8,6 @@
 
 ## Estudiante y entusiasta del software
 Actualmente estudiando mi segundo curso de **DAM** y creando mis primeros proyectos!!
-![Snake animation](https://github.com/HectorCRM/HectorCRM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HectorCRM/github-readme/blob/output/github-contribution-snake.svg)
+
+
