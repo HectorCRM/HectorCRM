@@ -1,6 +1,7 @@
+🚧 Actualmente el README para mi perfil se encuentra en desarrollo 🚧
 # Hola, soy Héctor! 👋
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HectorCRM&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/> 
-<img src="https://myreadme.vercel.app/api/embed/HectorCRM?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HectorCRM&show_icons=true&theme=radical)
 
 
 
@@ -8,7 +9,6 @@
 
 ## Estudiante y entusiasta del software
 Actualmente estudiando mi segundo curso de **DAM** y creando mis primeros proyectos!!
-![Contribution](https://activity-graph.herokuapp.com/graph?username=HectorCRM&theme=react-dark&hide_border=true&area=true)
-![Snake animation](https://github.com/HectorCRM/github-readme/blob/output/github-contribution-snake.svg)
+
 
 
