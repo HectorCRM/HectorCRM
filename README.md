@@ -1,11 +1,14 @@
-🚧 Este README para mi perfil se encuentra en desarrollo 🚧
 # Hola, soy Héctor! 👋<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HectorCRM&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/> 
+## Sobre mí:
+👨‍🎓 Estudiante de DAM en [**Campus Digital FP**](https://campusdigitalfp.com/)    
+⚙️Apasionado de la electrónica y la programación, enfocandome en mejorar mi habilidad en **C++**  
+📚Apasionado también por la historia(echale un ojo a mi repo [**HolaMundo**](https://github.com/HectorCRM/HolaMundo))  
 
-<img src="https://github-readme-stats.vercel.app/api?username=HectorCRM&show_icons=true&theme=merko"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HectorCRM&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+## Contactame:
 
-## Estudiante y entusiasta del software
-Actualmente estudiando mi segundo curso de **DAM** y creando mis primeros proyectos!!
+
+
+
 
 
 
