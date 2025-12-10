@@ -6,6 +6,7 @@
 
 ## Tecnologías y lenguajes conocidos:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,git,linux,postgres,arduino,bash)](https://skillicons.dev)  
+## Contribuciones 🐍
 <p align="center">
   <img src="https://raw.githubusercontent.com/HectorCRM/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
