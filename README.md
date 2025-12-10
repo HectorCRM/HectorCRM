@@ -4,8 +4,8 @@
 ⚙️Apasionado de la electrónica y la programación, enfocandome en mejorar mi habilidad en **C++**  
 📚Apasionado también por la historia(echale un ojo a mi repo [**HolaMundo**](https://github.com/HectorCRM/HolaMundo))  
 
-## Lenguajes utilizados:
-[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
+## Tecnologías y lenguajes conocidos:
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,git,linux,postgres,arduino,bash)](https://skillicons.dev)
 
 
 
