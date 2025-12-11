@@ -14,7 +14,7 @@
 ## Contáctame:  
 ⬇️¿Quieres saber más acerca de mí?  
 [![Static Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:*monroygti2.0@gmail.com*)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logoColor=white)](www.linkedin.com/in/héctor-monroy-fuertes-0a305b201)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logoColor=white)](https://www.linkedin.com/in/héctor-monroy-fuertes-0a305b201)
 
 
 
