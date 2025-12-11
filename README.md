@@ -5,11 +5,16 @@
 📚Apasionado también por la historia(echale un ojo a mi repo [**HolaMundo**](https://github.com/HectorCRM/HolaMundo))  
 
 ## Tecnologías y lenguajes conocidos:
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,git,linux,postgres,arduino,bash)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,git,linux,postgres,arduino,bash)](https://skillicons.dev) 
 ## Contribuciones 🐍
 <p align="center">
   <img src="https://raw.githubusercontent.com/HectorCRM/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+</p>  
+
+## Contáctame:  
+⬇️¿Quieres saber más acerca de mí?  
+[![Static Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:*monroygti2.0@gmail.com*)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logoColor=white)](www.linkedin.com/in/héctor-monroy-fuertes-0a305b201)
 
 
 
