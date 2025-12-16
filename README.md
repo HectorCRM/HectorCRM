@@ -1,4 +1,4 @@
-# Hola, soy Héctor! 👋<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=HectorCRM&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/> 
+# Hola, soy Héctor! 👋![Visitas](https://komarev.com/ghpvc/?username=HectorCRM&color=blue&style=round&label=Visitantes:)
 ## Sobre mí:
 👨‍🎓 Estudiante de DAM en [**Campus Digital FP**](https://campusdigitalfp.com/)    
 ⚙️Apasionado de la electrónica y la programación, enfocandome en mejorar mi habilidad en **C++**  
